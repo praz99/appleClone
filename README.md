@@ -9,7 +9,7 @@ This is the screenshot  of my work.
 * CSS 3
 * Visual Studio Code Editor
 # Live Demo
-[Here](https://raw.githack.com/praz99/appleClone/new_feature/index.html) is the live demo of my work.
+[Here](https://github.com/praz99/appleClone/blob/master/index.html) is the live demo of my work.
 # Author
 ### Prajwal Thapa
 * Github: [@praz99](https://github.com/praz99)
