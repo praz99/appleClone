@@ -117,6 +117,7 @@ h3 {
   width: 145px;
   outline: none;
   border: none;
+  transition: 0.7s ease;
 }
 
 .box-input:focus + i {
